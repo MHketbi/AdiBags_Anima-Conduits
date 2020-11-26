@@ -1,0 +1,7 @@
+## Interface: 90002
+## Title: AdiBags - Anima & Conduits
+## Notes: Put Anima & Conduits in their own section.
+## Author: Mandeos
+## Version: 0.2
+## Dependencies: AdiBags
+AdiBags_Anima&Conduits.lua
